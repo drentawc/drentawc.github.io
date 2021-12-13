@@ -91,6 +91,7 @@
 .about {
   display: flex;
   background: url("images/mountains.jpeg") no-repeat center;
+  background-size: 100% auto;
   height: 100vh;
   color:white;
   min-height: 500px;
@@ -117,6 +118,7 @@
 .projects {
   display: flex;
   background: url("images/mountains.jpeg") no-repeat center;
+  background-size: 100% auto;
   height: 100vh;
   color:white;
   min-height: 500px;
@@ -136,6 +138,7 @@
 .contact {
   display: flex;
   background: url("images/mountains.jpeg") no-repeat center;
+  background-size: 100% auto;
   height: 100vh;
   color:white;
   min-height: 500px;
